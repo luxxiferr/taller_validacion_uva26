@@ -12,4 +12,4 @@ Grupo V: Término + dominio + info relacional -> https://forms.gle/SuPbf53C5QBcs
 
 Grupo VI: Término + dominio + info relacional (+5 ejemplos) -> https://forms.gle/Bf1NKkRLJHFSfv4x6
 
-
+Grupo VII: Término + dominio + scrapping fuentes -> https://forms.gle/5iF3vTAULfM2PKjt5
