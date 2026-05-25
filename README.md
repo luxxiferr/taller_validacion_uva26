@@ -10,13 +10,26 @@ Grupo 2.A: Término + dominio (+5 ejemplos) -> https://forms.gle/8vQNDM12wChQn3v
 Grupo 2.B: Término + dominio (+5 ejemplos) -> https://forms.gle/i1AYAqFy7cHqVepS7
 
 
-Grupo III: Término + dominio + info semántica -> https://forms.gle/xocKGJPpBTVP9QdLA
+Grupo 3.A: Término + dominio + info semántica -> https://forms.gle/xocKGJPpBTVP9QdLA
 
-Grupo IV: Término + dominio + info semántica (+5 ejemplos) -> https://forms.gle/nEGajxBRpQMNQ9qY9
+Grupo 3.B: Término + dominio + info semántica -> https://forms.gle/YTFaY9w5DAZayWBDA
 
-Grupo V: Término + dominio + info relacional -> https://forms.gle/SuPbf53C5QBcsFDR6
 
-Grupo VI: Término + dominio + info relacional (+5 ejemplos) -> https://forms.gle/Bf1NKkRLJHFSfv4x6
+Grupo 4.A: Término + dominio + info semántica (+5 ejemplos) -> https://forms.gle/nEGajxBRpQMNQ9qY9
+
+Grupo 4.B: Término + dominio + info semántica (+5 ejemplos) -> https://forms.gle/fiLUNLrEgwE3dFgy5
+
+
+Grupo 5.A: Término + dominio + info relacional -> https://forms.gle/SuPbf53C5QBcsFDR6
+
+Grupo 5.B: Término + dominio + info relacional -> https://forms.gle/5KroMmDPUw3HXYVU6
+
+
+
+Grupo 6.A: Término + dominio + info relacional (+5 ejemplos) -> https://forms.gle/Bf1NKkRLJHFSfv4x6
+
+Grupo 6.B: Término + dominio + info relacional (+5 ejemplos) -> https://forms.gle/G9bo742ecJ3Um6NEA 
+
 
 Grupo VII: Término + dominio + scrapping fuentes -> https://forms.gle/5iF3vTAULfM2PKjt5
 
