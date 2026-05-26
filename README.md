@@ -31,6 +31,11 @@ Grupo 6.A: Término + dominio + info relacional (+5 ejemplos) -> https://forms.g
 Grupo 6.B: Término + dominio + info relacional (+5 ejemplos) -> https://forms.gle/G9bo742ecJ3Um6NEA 
 
 
-Grupo VII: Término + dominio + scrapping fuentes -> https://forms.gle/5iF3vTAULfM2PKjt5
+
+Grupo 7.A: Término + dominio + scrapping fuentes -> https://forms.gle/5iF3vTAULfM2PKjt5
+
+Grupo 7.B: Término + dominio + scrapping fuentes -> https://forms.gle/4d2gVRRZ7wFxB9vK7
+
+
 
 Grupo VIII: Término + dominio + scrapping fuentes (+5 ejemplos) -> https://forms.gle/oKYkmXWDqfYZd74c8
