@@ -38,4 +38,6 @@ Grupo 7.B: Término + dominio + scrapping fuentes -> https://forms.gle/4d2gVRRZ7
 
 
 
-Grupo VIII: Término + dominio + scrapping fuentes (+5 ejemplos) -> https://forms.gle/oKYkmXWDqfYZd74c8
+Grupo 8.A: Término + dominio + scrapping fuentes (+5 ejemplos) -> https://forms.gle/oKYkmXWDqfYZd74c8
+
+Grupo 8.B: Término + dominio + scrapping fuentes (+5 ejemplos) -> https://forms.gle/TGwJzodTeeWykXEM8
